@@ -6,3 +6,4 @@
 
 =VLOOKUP(Primary key, range containing primary key and other data, numbered column of the data you want, false)
  
+## 
